@@ -5,13 +5,17 @@ title: Pawladins Survivors — Privacidade / Privacy
 # Política de Privacidade — Pawladins Survivors
 
 
-Última atualização: 30 de outubro de 2026
+Última atualização: 1 de novembro de 2026
 
 Esta política explica como o jogo **Pawladins Survivors** ("o jogo"), publicado por Pawladins Survivors, trata informações quando você joga no Android ou no Windows.
 
 ## O que o jogo guarda
 
-O jogo não tem contas, login, chat nem compras dentro do app. Seu progresso fica salvo **somente no seu aparelho**: perfil, heróis desbloqueados, conquistas, configurações e a partida em andamento. Nós não recebemos nem enviamos esses dados a nenhum servidor. Se você desinstalar o jogo ou apagar os dados do app, esse progresso é apagado.
+O jogo não tem contas, login, chat nem compras dentro do app. Seu progresso fica salvo **somente no seu aparelho**: perfil, heróis desbloqueados, conquistas, configurações e a partida em andamento. Nós não recebemos nem enviamos esses dados a nenhum servidor (veja a exceção opcional abaixo). Se você desinstalar o jogo ou apagar os dados do app, esse progresso é apagado.
+
+## Estatísticas de partida (opcional)
+
+Na tela de fim de partida há o botão **Enviar estatísticas da partida**. Só quando você toca nele, o jogo envia um resumo anônimo daquela partida: herói, região, dificuldade, tempo, nível, abates, ouro, armas e talismãs com seus níveis, quando cada arma foi obtida, dano de cada arma, o que causou a derrota, se usou reviver, os níveis das melhorias permanentes, quantas partidas você já jogou e a maior dificuldade liberada, o sistema (Android ou Windows) e o tipo de controle (toque, teclado ou controle), a versão do jogo, a data e um código aleatório da partida. Não vai nenhum identificador seu nem do aparelho. Usamos esses dados só para equilibrar o jogo. Eles ficam numa planilha do Google Sheets, recebida por um Google Apps Script; o Google processa a conexão (como o endereço IP) conforme a política de privacidade dele. Se não tocar no botão, nada é enviado.
 
 ## Anúncios (somente Android)
 
@@ -37,7 +41,7 @@ O jogo não se destina a crianças menores de 13 anos e não coleta intencionalm
 
 ## Compartilhamento
 
-Nós não vendemos nem compartilhamos dados pessoais. Os únicos dados que saem do aparelho são os processados pelo SDK do Google AdMob, descritos acima, e somente no Android.
+Nós não vendemos nem compartilhamos dados pessoais. Os únicos dados que saem do aparelho são as estatísticas de partida que você escolher enviar e os processados pelo SDK do Google AdMob (somente no Android), descritos acima.
 
 ## Alterações
 
@@ -51,13 +55,17 @@ Dúvidas ou pedidos sobre privacidade: rjungers@gmail.com
 
 # Privacy Policy — Pawladins Survivors
 
-Last updated: October 30, 2026
+Last updated: November 1, 2026
 
 This policy explains how **Pawladins Survivors** ("the game"), published by Pawladins Survivors, handles information when you play on Android or Windows.
 
 ## What the game stores
 
-The game has no accounts, login, chat or in-app purchases. Your progress is saved **only on your device**: profile, unlocked heroes, achievements, settings and the run in progress. We do not receive it or send it to any server. Uninstalling the game or clearing the app's data deletes that progress.
+The game has no accounts, login, chat or in-app purchases. Your progress is saved **only on your device**: profile, unlocked heroes, achievements, settings and the run in progress. We do not receive it or send it to any server (see the optional exception below). Uninstalling the game or clearing the app's data deletes that progress.
+
+## Run statistics (optional)
+
+The end-of-run screen has a **Send run stats** button. Only when you tap it, the game sends an anonymous summary of that run: hero, region, difficulty, time, level, kills, gold, weapons and talismans with their levels, when each weapon was picked up, damage per weapon, what ended the run, whether you revived, your permanent upgrade levels, how many runs you have played and the highest difficulty unlocked, the system (Android or Windows) and the input type (touch, keyboard or controller), the game version, the date and a random run code. No identifier of you or your device is included. We use this data only to balance the game. It is stored in a Google Sheets spreadsheet, received by a Google Apps Script; Google processes the connection (such as the IP address) under its own privacy policy. If you don't tap the button, nothing is sent.
 
 ## Ads (Android only)
 
@@ -83,7 +91,7 @@ The game is not directed at children under 13 and does not knowingly collect the
 
 ## Sharing
 
-We do not sell or share personal data. The only data that leaves the device is what the Google AdMob SDK processes, described above, and only on Android.
+We do not sell or share personal data. The only data that leaves the device is the run statistics you choose to send and what the Google AdMob SDK processes (Android only), both described above.
 
 ## Changes
 
