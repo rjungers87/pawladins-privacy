@@ -5,13 +5,17 @@ title: Pawladins Survivors — Privacidade / Privacy
 # Política de Privacidade — Pawladins Survivors
 
 
-Última atualização: 1 de novembro de 2026
+Última atualização: 8 de novembro de 2026
 
 Esta política explica como o jogo **Pawladins Survivors** ("o jogo"), publicado por Pawladins Survivors, trata informações quando você joga no Android ou no Windows.
 
 ## O que o jogo guarda
 
-O jogo não tem contas, login, chat nem compras dentro do app. Seu progresso fica salvo **somente no seu aparelho**: perfil, heróis desbloqueados, conquistas, configurações e a partida em andamento. Nós não recebemos nem enviamos esses dados a nenhum servidor (veja a exceção opcional abaixo). Se você desinstalar o jogo ou apagar os dados do app, esse progresso é apagado.
+O jogo não tem contas próprias, chat nem compras dentro do app. Seu progresso fica salvo **no seu aparelho**: perfil, heróis desbloqueados, conquistas, configurações e a partida em andamento. Nós não recebemos esses dados em nenhum servidor nosso (veja as exceções abaixo). Se você desinstalar o jogo ou apagar os dados do app, esse progresso é apagado.
+
+## Google Play Games (somente Android)
+
+No Android, o jogo usa o **Google Play Games** para mostrar suas conquistas no seu perfil do Play Games. Se você estiver conectado ao Play Games, o jogo informa ao Google as conquistas que você desbloquear. Seu perfil de jogador (nome de jogador e avatar) é compartilhado com o jogo pelo Google; nós não recebemos seu e-mail. O SDK do Play Games também coleta dados de diagnóstico e de análise para o Google melhorar o serviço. Esses dados são tratados pelo Google conforme a [Política de Privacidade do Google](https://policies.google.com/privacy). Você controla quem vê seu perfil e pode excluir os dados do jogo ou sua conta no [perfil do Play Games](https://play.google.com/games/profile). O jogo funciona normalmente sem o Play Games.
 
 ## Estatísticas de partida (opcional)
 
@@ -41,7 +45,7 @@ O jogo não se destina a crianças menores de 13 anos e não coleta intencionalm
 
 ## Compartilhamento
 
-Nós não vendemos nem compartilhamos dados pessoais. Os únicos dados que saem do aparelho são as estatísticas de partida que você escolher enviar e os processados pelo SDK do Google AdMob (somente no Android), descritos acima.
+Nós não vendemos nem compartilhamos dados pessoais. Os únicos dados que saem do aparelho são as estatísticas de partida que você escolher enviar e os processados pelos SDKs do Google Play Games e do Google AdMob (somente no Android), descritos acima.
 
 ## Alterações
 
@@ -55,13 +59,17 @@ Dúvidas ou pedidos sobre privacidade: rjungers@gmail.com
 
 # Privacy Policy — Pawladins Survivors
 
-Last updated: November 1, 2026
+Last updated: November 8, 2026
 
 This policy explains how **Pawladins Survivors** ("the game"), published by Pawladins Survivors, handles information when you play on Android or Windows.
 
 ## What the game stores
 
-The game has no accounts, login, chat or in-app purchases. Your progress is saved **only on your device**: profile, unlocked heroes, achievements, settings and the run in progress. We do not receive it or send it to any server (see the optional exception below). Uninstalling the game or clearing the app's data deletes that progress.
+The game has no accounts of its own, chat or in-app purchases. Your progress is saved **on your device**: profile, unlocked heroes, achievements, settings and the run in progress. We do not receive it on any server of ours (see the exceptions below). Uninstalling the game or clearing the app's data deletes that progress.
+
+## Google Play Games (Android only)
+
+On Android, the game uses **Google Play Games** to show your achievements on your Play Games profile. If you are signed in to Play Games, the game tells Google which achievements you unlock. Google shares your player profile (gamer name and avatar) with the game; we do not receive your email address. The Play Games SDK also collects diagnostics and analytics data so Google can improve the service. Google handles this data under the [Google Privacy Policy](https://policies.google.com/privacy). You control who can see your profile, and you can delete the game's data or your account from your [Play Games profile](https://play.google.com/games/profile). The game works normally without Play Games.
 
 ## Run statistics (optional)
 
@@ -91,7 +99,7 @@ The game is not directed at children under 13 and does not knowingly collect the
 
 ## Sharing
 
-We do not sell or share personal data. The only data that leaves the device is the run statistics you choose to send and what the Google AdMob SDK processes (Android only), both described above.
+We do not sell or share personal data. The only data that leaves the device is the run statistics you choose to send and what the Google Play Games and Google AdMob SDKs process (Android only), all described above.
 
 ## Changes
 
